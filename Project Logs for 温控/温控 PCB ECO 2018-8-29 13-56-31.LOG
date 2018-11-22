@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=RESET Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=C12-1
+Removed Pin From Net: NetName=D3V3 Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=GND Pin=C14-1
+Removed Pin From Net: NetName=RESET Pin=K1-2
+Removed Pin From Net: NetName=KEY1 Pin=K2-2
+Removed Pin From Net: NetName=KEY1 Pin=K2-2
+Removed Pin From Net: NetName=GND Pin=K3-1
+Removed Pin From Net: NetName=GND Pin=K3-1
+Removed Pin From Net: NetName=KEY2 Pin=K3-2
+Removed Pin From Net: NetName=KEY2 Pin=K3-2
+Removed Pin From Net: NetName=D3V3 Pin=P6-1
+Removed Pin From Net: NetName=GND Pin=P6-2
+Removed Pin From Net: NetName=D3V3 Pin=R7-2
+Removed Pin From Net: NetName=D3V3 Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=U7-1
+Removed Pin From Net: NetName=GND Pin=U8-4
+Removed Pin From Net: NetName=GND Pin=U8-5
+Removed Pin From Net: NetName=GND Pin=U8-6
+Removed Member From Class: ClassName=ÎÂ¿Ø Member=C10
+Removed Member From Class: ClassName=ÎÂ¿Ø Member=C11
+Removed Member From Class: ClassName=ÎÂ¿Ø Member=C12
+Removed Member From Class: ClassName=ÎÂ¿Ø Member=C13
+Removed Member From Class: ClassName=ÎÂ¿Ø Member=C14
+Removed Member From Class: ClassName=ÎÂ¿Ø Member=D1
+Removed Member From Class: ClassName=ÎÂ¿Ø Member=D2
+Removed Member From Class: ClassName=ÎÂ¿Ø Member=D3
+Removed Member From Class: ClassName=ÎÂ¿Ø Member=K3
+Removed Member From Class: ClassName=ÎÂ¿Ø Member=P6
+Removed Member From Class: ClassName=ÎÂ¿Ø Member=R8
+Removed Member From Class: ClassName=ÎÂ¿Ø Member=U7
+Removed Member From Class: ClassName=ÎÂ¿Ø Member=U8
+Removed Member From Class: ClassName=ÎÂ¿Ø Member=Y1
+Change Component DesignItemId : Designator=K1 Old DesignItemId=KEY2 New DesignItemId=KEY_4
+Change Component Footprint: Designator=K1 Old Footprint=KEY2 New Footprint=KEY6*6
+Change Component Footprint: Designator=K2 Old Footprint=KEY_SMD New Footprint=KEY6*6
+Change Component Comment : Designator=R7 Old Comment=102 New Comment=0
+Change Component Comment : Designator=K1 Old Comment=KEY New Comment=KEY_4
+Change Component Designator: OldDesignator=C8 NewDesignator=C7
+Change Component Designator: OldDesignator=C9 NewDesignator=C8
+Added Component: Designator=C9(0603_cap)
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=KEY1 Pin=K1-2
+Added Pin To Net: NetName=KEY1 Pin=K1-2
+Added Pin To Net: NetName=KEY2 Pin=K2-2
+Added Pin To Net: NetName=KEY2 Pin=K2-2
+Added Pin To Net: NetName=D3V0 Pin=C9-2
+Added Net: Name=D3V0
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=R7-2
+Added Net: Name=NetP3_2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R7-1
+Added Net: Name=NetQ1_3
+Added Room: Name=ÏÔÊ¾
+Added Room: Name=ÎÂ¿Ø

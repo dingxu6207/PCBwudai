@@ -1,0 +1,57 @@
+Protel Design System Design Rule Check
+PCB File : E:\ÎÂ¿Ø\PCBMIN\PCB\ÎÂ¿Ø.PcbDoc
+Date     : 2018-8-29
+Time     : 16:15:17
+
+Processing Rule : Width Constraint (Min=16mil) (Max=30mil) (Preferred=20mil) (InNet('D3V3'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=20mil) (Max=40mil) (Preferred=30mil) (InNet('D12V0'))
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint (118.11mil > 100mil) : Pad P1-1(559.37mil,1110mil)  Multi-Layer
+   Violation between Hole Size Constraint (118.11mil > 100mil) : Pad P1-2(315.276mil,1110mil)  Multi-Layer
+   Violation between Hole Size Constraint (118.11mil > 100mil) : Pad P1-3(433.386mil,913.15mil)  Multi-Layer
+   Violation between Hole Size Constraint (129.921mil > 100mil) : Pad Free-3(1940mil,110mil)  Multi-Layer
+   Violation between Hole Size Constraint (129.921mil > 100mil) : Pad Free-2(1940mil,1420mil)  Multi-Layer
+   Violation between Hole Size Constraint (129.921mil > 100mil) : Pad Free-1(120mil,110mil)  Multi-Layer
+   Violation between Hole Size Constraint (129.921mil > 100mil) : Pad Free-0(120mil,1420mil)  Multi-Layer
+Rule Violations :7
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=30mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 7
+Time Elapsed        : 00:00:01
